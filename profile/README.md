@@ -25,3 +25,9 @@ for example the [INSPIRE helpdesk repository](https://github.com/INSPIRE-MIF/hel
 - [BaseX test driver](https://github.com/etf-validator/etf-bsxtd) [![Java CI](https://github.com/etf-validator/etf-bsxtd/actions/workflows/gradle.yml/badge.svg)](https://github.com/etf-validator/etf-bsxtd/actions/workflows/gradle.yml)
 - [OGC Team-Engine test driver](https://github.com/etf-validator/etf-tetd)  [![Java CI](https://github.com/etf-validator/etf-tetd/actions/workflows/gradle.yml/badge.svg)](https://github.com/etf-validator/etf-tetd/actions/workflows/gradle.yml)
 - [SoapUI test driver](https://github.com/etf-validator/etf-suitd)  [![Java CI](https://github.com/etf-validator/etf-suitd/actions/workflows/gradle.yml/badge.svg)](https://github.com/etf-validator/etf-suitd/actions/workflows/gradle.yml)
+
+#### Documentation
+
+- [User manuals](http://docs.etf-validator.net/v2.1/index.html#_user_manuals)
+- [Administrator manuals](http://docs.etf-validator.net/v2.1/index.html#_administrator_manuals)
+- [Developer manuals](http://docs.etf-validator.net/v2.1/index.html#_developer_manuals)
